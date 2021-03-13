@@ -1,0 +1,60 @@
+Animal Tracks Legend
+
+CAPS:
+
+A Antelope        
+B Beaver  
+C Caribou 
+D Domestic Cat    
+E Elk     
+F Fisher  
+G Grey Squirrel   
+H Wolverine       
+I Woodchuck       
+J Jack Rabbit     
+K Kit Fox 
+L Lynx    
+M Marmot  
+N Marten  
+O Opossum 
+P Porcupine       
+Q Pig     
+R Racoon  
+S Skunk   
+T Turkey  
+U Bobcat  
+V Wild Boar       
+W Whitetail Deer  
+X Mule Deer       
+Y Mink    
+Z Moose   
+
+small caps:
+
+a Armadillo       
+b Black Bear      
+c Cougar  
+d Prarie Dog      
+e Muskrat 
+f Ferret  
+g Grey Wolf       
+h Mongrel Dog     
+i Coyote  
+j Ocelot  
+k Badger  
+l Red Squirrel    
+m Mountain  Sheep 
+n Agouti  
+o Otter   
+p Peccary 
+q Pheasant        
+r Red Fox 
+s Muskox  
+t Paca    
+u Kinkajou        
+v Bison   
+w Mouse   
+x Mystery Track   
+y Polar Bear      
+z Mountain Goat   
+
